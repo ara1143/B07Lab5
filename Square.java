@@ -1,4 +1,4 @@
-package lab 4;
+package lab4;
 
 public class Square {
 	Point right_top;
