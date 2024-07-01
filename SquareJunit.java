@@ -1,4 +1,4 @@
-package lab52;
+package lab4;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
